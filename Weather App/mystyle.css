@@ -1,0 +1,97 @@
+.fb{
+  background-image:url("https://www.hdwallpapers.in/thumbs/2011/dark_aurora-t2.jpg");
+  background-attachement:fixed;
+ // background-image:url("");
+ // background-repeat:no-repeat;
+  background-size:cover;
+  //background-color:;
+  
+}
+.EC{
+  
+  margin-top:5%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:10%;
+  opacity:0.7;
+  min-width:280px;
+  
+  
+  background-color:#002233;
+}
+.ha{
+  //background-color:black;
+  margin-top:30px;
+  border-radius:5px;
+  color:yellow;
+    word-wrap:break-word;
+
+}
+body{
+ // background-color:black;
+  font-size:20px;
+  //opacity:
+} 
+img{
+  width:70px;
+  
+  
+
+}
+#CF{
+ // background-color:Greenery;
+ // border-shadow:33px 33px 55px black;
+}
+.searchAdjust .SA{
+   margin-left:auto;
+  margin-right:auto;
+  margin-top:3px;
+  margin-bottom:3px;
+  min-width:170px;
+  width:60%;
+  
+}
+.searchAdjust .MB{
+  padding:5px;
+ // width:25%;
+  min-width:70px;
+  margin:2px;
+  //max-width:30%; this creates problem due to font-size in button
+  //font-size:51%;
+  //font-size:15px;
+ // overflow:hidden;
+  //word-wrap:break-word;
+}
+.searchAdjust .MB:hover{
+  //text-overflow:inherit;
+  //color:red;
+ // overflow:visible;
+}
+.searchAdjust{
+  margin-left:auto;
+  margin-right:auto;
+    min-width:180px;
+
+    width:100%;
+    padding:5px;
+  //background-color:black;
+  //border:1px solid white;
+  //border-radius:110px;
+}
+.atc{
+  color:white;
+}
+.cfbutton{
+  max-width:40px;
+  min-width:30px;
+  
+  
+}
+.cfbutton:hover{
+  background-color:red;
+  color:white;
+}
+.TBM{
+  min-width:240px;
+  
+}
